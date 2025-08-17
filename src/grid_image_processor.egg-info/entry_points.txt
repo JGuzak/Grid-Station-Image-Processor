@@ -1,0 +1,2 @@
+[console_scripts]
+grid-process = grid_image_processor.cli:main
