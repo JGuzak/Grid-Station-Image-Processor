@@ -39,9 +39,9 @@ dev = [
 grid-process = "grid_image_processor.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/JGuzak/iiiano"
-Repository = "https://github.com/JGuzak/iiiano"
-Issues = "https://github.com/JGuzak/iiiano/issues"
+Homepage = "https://github.com/JGuzak/Grid-Station-Image-Processor"
+Repository = "https://github.com/JGuzak/Grid-Station-Image-Processor"
+Issues = "https://github.com/JGuzak/Grid-Station-Image-Processor/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

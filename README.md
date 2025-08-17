@@ -21,17 +21,21 @@ A CLI tool for batch processing Monome Grid interface screenshots from [Grid Sta
 3. Activate the virtual environment:
    - **Windows**
 
-      ```
+      ```powershell
       .venv\Scripts\activate
-      pip install -e .
       ```
 
    - **macOS/Linux**
 
-      ```
+      ```bash
       source .venv/bin/activate
-      pip install -e .
       ```
+
+4. Install depedencies
+
+```bash/powershell
+pip install -e .
+```
 
 ## CLI Options
 
